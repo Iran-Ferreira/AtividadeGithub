@@ -1,3 +1,3 @@
 ## Calculadora legal 
 
-desenvolver uma calculadora com as operações de soma, subtração, multiplicação e divisão.
+Desenvolver em grupo uma calculadora com as operações de soma, subtração, multiplicação e divisão.
