@@ -1,3 +1,4 @@
+// Função que limpa o campo da calculadora
 function clean(){
     document.getElementById("resultado").innerHTML = ''
 }
